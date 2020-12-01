@@ -3,7 +3,7 @@
   1. What is Semantic HTML? 
     2. What is HTML used for? Display information on the web.  Markup language.
     3. What is an attribute and where do we put it? A characteristic of an element. It goes in the tag.
-    4. What is the h1 tag used for? How many times should I use it on a page? Header 1. Once is best practice i think.
+    4. What is the h1 tag used for? How many times should I use it on a page? Header 1. Once is best practice.
     5. Name two tags that have required attributes. img and a
     6. What do we put in the head of our HTML document? metadata?
     7. What is an id? unique marker of an element
