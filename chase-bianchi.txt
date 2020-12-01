@@ -1,3 +1,5 @@
+ https://codepen.io/ChaseBianchi/pen/QWKbPjG
+
   1. What is Semantic HTML? 
     2. What is HTML used for? Display information on the web.  Markup language.
     3. What is an attribute and where do we put it? A characteristic of an element. It goes in the tag.
