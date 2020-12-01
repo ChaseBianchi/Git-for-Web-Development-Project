@@ -1,3 +1,5 @@
+ Full time submission
+
  https://codepen.io/ChaseBianchi/pen/QWKbPjG
 
   1. What is Semantic HTML? 
